@@ -1,13 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1230764400,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-      "romtype": "nightly",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
-      "version": "16.1"
+      "datetime": 1770019793,
+      "filename": "PixelOS_psyche-16.1-20260202-0809.zip",
+      "id": "89731fc39871d2b15f29e9606bcec911",
+      "size": 2426965931,
+      "url": "https://sourceforge.net/projects/mtkpapa-builds/files/PixelOS/PixelOS_psyche-16.1-20260202-0809.zip",
+      "version": "16"
     }
   ]
 }
