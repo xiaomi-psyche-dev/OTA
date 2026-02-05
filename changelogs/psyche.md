@@ -1,1 +1,4 @@
-- This is a stub
+- Fix HDR
+- Reduce heat and power consumption
+- Remove my ADB keys that i forgot to remove in previous build before release :3
+- I forgor
