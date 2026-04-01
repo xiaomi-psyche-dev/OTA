@@ -1,2 +1,1 @@
-- QPR2
-- Fix reboots on charging
+- Add bypass charging
