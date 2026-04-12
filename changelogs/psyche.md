@@ -1,2 +1,0 @@
-- QPR2
-- Fix reboots on charging
