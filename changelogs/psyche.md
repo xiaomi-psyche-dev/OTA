@@ -1,1 +1,1 @@
-- Add bypass charging
+- QPR2
