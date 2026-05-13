@@ -1,13 +1,12 @@
 {
-    "response": [
-        {
-            "datetime": 1777444757,
-            "filename": "axion-2.6-QUASIS-20260429-UNOFFICIAL-GMS-psyche.zip",
-            "id": "ca26a81444093352d6f61164be6e5721",
-            "romtype": "UNOFFICIAL",
-            "size": 2309655607,
-            "url": "https://sourceforge.net/projects/mtkpapa-builds/files/AxionOS/axion-2.6-QUASIS-20260429-UNOFFICIAL-GMS-psyche.zip",
-            "version": "2.6"
-        }
-    ]
+	"response": [
+		{
+			"filename": "Project_Infinity-X-3.10-psyche-13.05.2026-GAPPS-UNOFFICIAL.zip",
+			"download": "https://ota.mtkpapa.ru/InfinityX/Project_Infinity-X-3.10-psyche-13.05.2026-GAPPS-UNOFFICIAL.zip",
+			"timestamp": 1778669802,
+			"md5": "9cb4443ce8cfea2bc87344a2b2eea2a2",
+			"size": 2241817614,
+			"version": "3.10"
+		}
+	]
 }
