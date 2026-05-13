@@ -1,1 +1,1 @@
-- QPR2
+- Bypass charging
