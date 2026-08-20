@@ -1,3 +1,2 @@
-- Sync with latest sources
-- SUSFS
-- Fix A2DP offload (sync with Rocky7842 tree)
+- Android 17
+- Tune performance
