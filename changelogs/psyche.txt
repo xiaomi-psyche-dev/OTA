@@ -1,2 +1,4 @@
-- Android 17
-- Tune performance
+- Fix LHDC
+- Drop KernelSU
+- Fix TG video issue
+- Sync with latest sources
