@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1794061074,
+    "files": [
+      {
+        "filename": "DerpFest-v17-20261107-psyche-Community-Stable.zip",
+        "os_patch_level": "2026-10-01",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4237:212434,payload.bin:4237:3202138617,payload_properties.txt:3202142912:156,apex_info.pb:2012:1448,care_map.pb:3507:683,metadata:69:686,metadata.pb:823:1141",
+        "sha256": "3eeab68e3cb617fe503a26bcf84d98c34bbfe6d54c1162f3853b6117829eae71",
+        "size": 3202146073,
+        "url": "https://sourceforge.net/projects/mtkpapa-builds/files/DerpFest/DerpFest-v17-20261107-psyche-Community-Stable.zip"
+      }
+    ],
+    "type": "Community",
+    "version": "17"
+  }
+]
