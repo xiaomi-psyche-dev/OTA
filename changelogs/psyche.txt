@@ -2,4 +2,6 @@
 - Tune cpusets
 - Update WFD
 - Update to cip136
+- Fix Bluetooth
+- Move to stock face unlock (much faster now)
 - Minor fixes
