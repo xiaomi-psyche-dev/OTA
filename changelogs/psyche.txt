@@ -1,1 +1,5 @@
-- Initial release
+- Drop ScrollOptimizer
+- Tune cpusets
+- Update WFD
+- Update to cip136
+- Minor fixes
